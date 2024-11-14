@@ -30,11 +30,11 @@ After Installing Termux, Make Sure You Allowed Storage Permission On Termux (dev
 
 # **GIT CLONE THIS SCRIPT**
 
-> git clone https://github.com/ungdungbmt/grassthien.git
+> git clone https://github.com/Xuanthien/grassnode.git
 
 **CHANGE DIRECTORY TO SCRIPT FOLDER**
 
-> cd grassthien
+> cd grassnode
 
 **Install Requirements**
 
